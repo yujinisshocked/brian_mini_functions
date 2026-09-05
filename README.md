@@ -1,6 +1,6 @@
-# brian_mini_functions
+# Mini Functions
 
-A new Flutter project.
+This is a project I used to store different mini functions I have created when I was bored.
 
 ## Getting Started
 
